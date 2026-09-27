@@ -1,0 +1,33 @@
+
+SALES DATA ANALYSIS – KEY CONCLUSIONS
+=====================================
+
+1. Overall Performance
+Total revenue was $34,492,035.97 from 178,437 unique orders,
+with 209,079 units sold and an average order value of
+$193.30.
+
+2. Product Performance
+The Macbook Pro Laptop generated the highest revenue at
+$8,037,600.00.
+The top 5 products contributed 65.86% of total revenue.
+
+3. City Performance
+San Francisco generated the highest revenue at
+$8,262,203.91.
+The top 5 cities contributed 72.01% of total revenue.
+
+4. Monthly Performance
+December recorded the highest monthly revenue at
+$4,613,443.34.
+October recorded the highest month-over-month growth of
+78.15%.
+
+5. Sales Timing
+The highest-revenue sales hour was 19:00,
+with revenue of $2,412,938.54.
+
+6. Business Insight
+Revenue is concentrated among a relatively small number of products
+and cities. Product, city, monthly, and hourly analysis can therefore
+help identify important sales patterns and support business decisions.
